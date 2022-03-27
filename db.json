@@ -1,0 +1,29 @@
+{
+    "prodData": [
+        {
+            "name": "SmartPhone",
+            "price": 1000,
+            "id": 0
+        },
+        {
+            "name": "Watch",
+            "price": 500,
+            "id": 1
+        },
+        {
+            "name": "Shirt",
+            "price": 700,
+            "id": 2
+        },
+        {
+            "name": "Pants",
+            "price": 800,
+            "id": 3
+        },
+        {
+            "name": "Shoes",
+            "price": 1500,
+            "id": 4
+        }
+    ]
+}
